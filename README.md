@@ -1,3 +1,9 @@
+# Fork with patch for webpack5 rules matching
+
+Based on https://github.com/JetBrains/svg-sprite-loader/issues/500#issuecomment-1641597942
+
+----
+
 [![obsolete JetBrains project](https://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 # SVG sprite loader
